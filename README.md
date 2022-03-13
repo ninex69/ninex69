@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ninex69
 - 👀 I’m interested in Coding 
+-     Also beginner 
 - 🌱 I’m currently learning python
 - 📫 How to reach me https://t.me/Ninex_legend
 
